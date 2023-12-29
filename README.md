@@ -77,7 +77,8 @@ if _name_ == '_main_':
     ep_robot.close()
 ```
 ## MobileRobot Movement Image:
-![WhatsApp Image 2023-12-29 at 19 27 50_02e60ae4](https://github.com/Thilak45/mobilerobot-openloopcontrol/assets/138849161/b555a76a-9d2d-46fa-b5a4-f2772a4b6394)
+![WhatsApp Image 2023-12-29 at 19 34 35_bc12561e](https://github.com/Thilak45/mobilerobot-openloopcontrol/assets/138849161/bb3cba8e-792e-4e07-8850-6424ccb96b94)
+
 ## MobileRobot Movement Video:
 https://youtube.com/shorts/53M7hfWhRfc?si=nbNe26Bq0_wUvfiM
 ## Result:
